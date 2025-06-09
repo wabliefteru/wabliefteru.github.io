@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://wabliefteru.github.io',
+	site: 'https://wabliefteru.be',
 	integrations: [mdx(), sitemap()],
 });
